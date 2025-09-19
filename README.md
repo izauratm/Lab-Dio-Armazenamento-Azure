@@ -83,7 +83,7 @@ Dominar esses recursos é essencial para quem deseja construir ambientes em nuve
 - [Usar o Gerenciador de Armazenamento do Azure](https://learn.microsoft.com/pt-br/azure/storage/blobs/quickstart-storage-explorer)
 - [Visão geral da conta de armazenamento](https://learn.microsoft.com/pt-br/azure/storage/common/storage-account-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json)
 - [Introdução ao AzCopy](https://learn.microsoft.com/pt-br/azure/storage/common/storage-use-azcopy-v10?toc=%2Fazure%2Fstorage%2Ffiles%2Ftoc.json&tabs=dnf)
-- [Migre cargas de trabalho](https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account?icid=azure-migrate#tabs-pill-bar-ocea03_tab4)
+- [Migração das cargas de trabalho](https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account?icid=azure-migrate#tabs-pill-bar-ocea03_tab4)
 - [O que são as Migrações para Azure?](https://learn.microsoft.com/pt-br/azure/migrate/migrate-services-overview?view=migrate-classic)
 - [Sincronização de Arquivos do Azure e Azure Data Box](https://learn.microsoft.com/pt-br/azure/storage/files/storage-files-migration-server-hybrid-databox)
 - [Gerenciador de Armazenamento](https://azure.microsoft.com/pt-br/products/storage/storage-explorer/?msockid=0a879c916bf366861df88afa6a98670a)
