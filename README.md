@@ -87,7 +87,6 @@ Dominar esses recursos é essencial para quem deseja construir ambientes em nuve
 - [O que são as Migrações para Azure?](https://learn.microsoft.com/pt-br/azure/migrate/migrate-services-overview?view=migrate-classic)
 - [Sincronização de Arquivos do Azure e Azure Data Box](https://learn.microsoft.com/pt-br/azure/storage/files/storage-files-migration-server-hybrid-databox)
 - [Gerenciador de Armazenamento](https://azure.microsoft.com/pt-br/products/storage/storage-explorer/?msockid=0a879c916bf366861df88afa6a98670a)
-- []()
 - [Calculadora de Preços Azure](https://azure.microsoft.com/pt-br/pricing/calculator/?ef_id=_k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&gad_source=1&gad_campaignid=1635078708&gbraid=0AAAAADcJh_s0nlhmSLvv4COb6oAkGNm0s&gclid=EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE)
 - [Assinatura do Azure](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits)
   
