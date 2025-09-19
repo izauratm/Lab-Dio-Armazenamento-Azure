@@ -1,4 +1,4 @@
-# ☁️ Resumo do Lab: Armazenamento Microsoft Azure AZ-900
+# 📦 Resumo do Lab: Armazenamento Microsoft Azure AZ-900
 Este repositório reúne os principais aprendizados adquiridos durante o laboratório de **Armazenamento na Azure** da plataforma [DIO.me](https://web.dio.me), Módulo 2, do qual estou atualmente participando. O foco está nos benefícios e aplicações práticas da plataforma Microsoft Azure, explorando seus recursos e funcionalidades. O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os conceitos fundamentais até os componentes essenciais da arquitetura Azure.
 Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais, configuração de bancos de dados e soluções de armazenamento, além de tópicos avançados como arquitetura em nuvem, governança, monitoramento e segurança de ambientes cloud.
 
@@ -8,7 +8,7 @@ Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais
 Este repositório contém resumos e referencias sobre o curso armazenamento, serviços e migração da plataforma Microsoft Azure. 
 Este material serve como referência para estudos e para a criação de ambientes em nuvem de forma organizada e escalável.
 
-## 📦 Armazenamento no Azure
+## 🗃️ Armazenamento no Azure
 
 ### 🔁 Redundância e Serviços de Armazenamento
 
