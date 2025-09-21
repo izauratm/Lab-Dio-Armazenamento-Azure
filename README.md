@@ -1,5 +1,5 @@
 # 📦 Resumo do Lab: Armazenamento Microsoft Azure AZ-900
-Este repositório reúne os principais aprendizados adquiridos durante o laboratório de **Armazenamento na Azure** da plataforma [DIO.me](https://web.dio.me), Módulo 2, do qual estou atualmente participando. O foco está nos benefícios e aplicações práticas da plataforma Microsoft Azure, explorando seus recursos e funcionalidades. O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os conceitos fundamentais até os componentes essenciais da arquitetura Azure.
+Este repositório reúne os principais aprendizados adquiridos durante o curso **Armazenamento do Azure** da plataforma [DIO.me](https://web.dio.me), Arquitetuea e Serviços Azure - Módulo 2. O foco está nos benefícios e aplicações práticas da plataforma Microsoft Azure, explorando seus recursos e funcionalidades. O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os conceitos fundamentais até os componentes essenciais da arquitetura Azure.
 Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais, configuração de bancos de dados e soluções de armazenamento, além de tópicos avançados como arquitetura em nuvem, governança, monitoramento e segurança de ambientes cloud.
 
 ---
@@ -75,7 +75,7 @@ Além disso, os serviços como Blob Storage, File Storage e Azure NetApp Files a
 A gestão eficiente é garantida por ferramentas como Azure Storage Explorer, Azure File Sync e políticas automatizadas de ciclo de vida, que facilitam o controle e a organização dos dados.
 Dominar esses recursos é essencial para quem deseja construir ambientes em nuvem resilientes e preparados para o futuro. O conhecimento adquirido neste laboratório serve como base sólida para projetos reais, certificações profissionais e decisões estratégicas em tecnologia.
 
-> Este conteúdo faz parte do projeto **Armazenamento na Azure - Laboratório** da plataforma [DIO.me](https://web.dio.me).
+> Este conteúdo faz parte do projeto **Dominando o Armazenamento na Azure - Laboratório** da plataforma [DIO.me](https://web.dio.me).
 
 ---
  
